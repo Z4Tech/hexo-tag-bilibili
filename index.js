@@ -1,11 +1,11 @@
 /**
 * hexo-tag-bilibili
 * https://github.com/Z4Tech/hexo-tag-bilibili.git
-* Copyright (c) 2015, Chenguang Zhang
+* Copyright (c) 2015, Z4Tech
 * Licensed under the MIT license.
 
 * Syntax:
-* {% bilibili [av_id] %} or {% bilibili [av_id [page]] %}
+* {% bilibili [av_id] %} or {% bilibili [av_id] [page] %}
 */
 var bili_convert = require('bilibili-embed-convert');
 
