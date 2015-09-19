@@ -1,0 +1,27 @@
+{
+  "name": "hexo-tag-bilibili",
+  "version": "0.1.0",
+  "description": "Embed bilibili videos in Hexo posts/pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Z4Tech/hexo-tag-bilibili.git"
+  },
+  "keywords": [
+    "hexo",
+    "videos",
+    "bilibili"
+  ],
+  "author": "Z4Tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Z4Tech/hexo-tag-bilibili/issues"
+  },
+  "homepage": "https://github.com/Z4Tech/hexo-tag-bilibili#readme",
+  "dependencies": {
+    "bilibili-embed-convert": "^0.1.0"
+  }
+}
