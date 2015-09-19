@@ -1,5 +1,5 @@
 # hexo-tag-bilibili
-[![Build Status](https://travis-ci.org/Z4Tech/hexo-tag-bilibili.svg)](https://travis-ci.org/Z4Tech/hexo-tag-bilibili) [![Code Climate](https://codeclimate.com/github/Z4Tech/hexo-tag-bilibili/badges/gpa.svg)](https://codeclimate.com/github/Z4Tech/hexo-tag-bilibili)
+[![Code Climate](https://codeclimate.com/github/Z4Tech/hexo-tag-bilibili/badges/gpa.svg)](https://codeclimate.com/github/Z4Tech/hexo-tag-bilibili)
 Embed bilibili videos in Hexo posts/pages
 
 # About
