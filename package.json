@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-bilibili",
-  "version": "0.1.0",
+  "version": "0.1.6",
   "description": "Embed bilibili videos in Hexo posts/pages",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Z4Tech/hexo-tag-bilibili#readme",
   "dependencies": {
-    "bilibili-embed-convert": "^0.1.0"
+    "bilibili-embed-convert": "^0.2.2"
   }
 }
