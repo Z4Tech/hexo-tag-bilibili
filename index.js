@@ -16,6 +16,5 @@ hexo.extend.tag.register('bilibili', function(args){
   config.width = config.width || 452;
   config.height = config.height || 544;
   var bili_video = new bili_convert(av_id, page);
-  console.log(bili_video.getIndex());
   return bili_video.embedAddr(config.width, config.height);
 });
