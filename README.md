@@ -31,6 +31,9 @@ bilibili:
   height: 544
 ```
 
+## Style
+The Video Clip is wrapped by a div with the class `bili_video`. You can modify it in your theme's css files.
+
 ## License
 
 Copyright (c) 2015, Z4Tech. Licensed under the [MIT license](LICENSE).
