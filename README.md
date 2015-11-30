@@ -7,7 +7,7 @@ Embed bilibili videos in Hexo posts/pages
 
 ## Installation
 ```bash
-npm install --save hexo-tag-vine
+npm install --save hexo-tag-bilibili
 ```
 ## Usage
 The full tag format is as follows:
