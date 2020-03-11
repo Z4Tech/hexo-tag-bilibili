@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Z4Tech/hexo-tag-bilibili#readme",
   "dependencies": {
-    "bilibili-embed-convert": "^0.2.2"
+    "bilibili-embed-convert": "^0.4.1"
   }
 }
