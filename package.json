@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/Z4Tech/hexo-tag-bilibili#readme",
   "dependencies": {
+<<<<<<< HEAD
     "bilibili-embed-convert": "^0.4.1"
+=======
+    "bilibili-embed-convert": "^0.3.1"
+>>>>>>> origin/master
   }
 }
